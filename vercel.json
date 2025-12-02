@@ -1,0 +1,9 @@
+# Vercel Configuration
+# This file is optional but helpful for custom build settings
+
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install"
+}
